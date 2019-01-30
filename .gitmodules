@@ -1,0 +1,3 @@
+[submodule "lib/wabt"]
+	path = lib/wabt
+	url = https://github.com/WebAssembly/wabt
